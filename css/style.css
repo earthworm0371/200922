@@ -1,0 +1,67 @@
+.bg{
+	width: 600px;
+	height: 584px;
+	background:black;
+	position: fixed;
+	left: 35%;
+	right:35%;
+	top: 20%;
+}
+
+.b1{
+	width: 455px;
+	height: 422px;
+	background: #eb1b19;
+	position: absolute;
+	right:0px;
+	}
+
+.b2{
+	width: 129px;
+	height: 174px;
+	background: #edece8;
+	position: absolute;
+	left:0px;
+	}
+
+.b3{
+	width: 129px;
+	height: 214px;
+	background: #edece8;
+	position: absolute;
+	left:0px;
+	top:209px;
+	}
+
+.b4{
+	width: 129px;
+	height: 146px;
+	background: #0352a1;
+	position: absolute;
+	left:0px;
+	top:438px;
+	}
+.b5{
+	width: 385px;
+	height: 146px;
+	background: #edece8;
+	position: absolute;
+	left:145px;
+	top:438px;
+	}
+.b6{
+	width: 49px;
+	height: 63px;
+	background: #edece8;
+	position: absolute;
+	right:0px;
+	bottom:83px;
+	}
+.b7{
+	width: 49px;
+	height: 63px;
+	background: #f6e364;
+	position: absolute;
+	right:0px;
+	bottom:0px;
+	}
